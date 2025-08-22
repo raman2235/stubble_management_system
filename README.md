@@ -89,9 +89,8 @@ stubble-management-system/
 ---
 
 ## ✍️ Contributors  
-- Ramandeep Kaur (TIET, Patiala)  
-- Vansh Garg (NIT Delhi)  
-- Kashish (TIET, Patiala)  
+- Vansh Garg  
+- Kashish
 
 **Supervisors**: Prof. (Dr.) Geeta Sikka, Dr. Sahil, Dr. Amandeep Kaur (NIT Delhi)  
 
